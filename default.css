@@ -1,0 +1,41 @@
+body{margin:0px;overflow-x:hidden;background-color:#E8F1F2;font-family: 'Roboto', sans-serif;color:black;height:100%;}
+
+#containerWstep{
+	background: url("TloHeader.jpg") no-repeat;
+	background-size:cover;
+	height:900px;
+	text-align:center;
+	line-height:950px;
+}
+
+#containerOmnie{
+	width:100%;
+		height:100%;
+	max-height:1000px;
+	text-align:center;
+	position:relative;
+}
+
+#Omnie{
+padding-right:110px;
+padding-left:110px;
+padding-bottom:110px;
+display:inline-block;
+text-align:center;
+}
+
+#Portfolio{
+	width:100%;
+	height:auto;
+	display:inline-block;
+	text-align:center;
+	background-color:#DFE5E1;
+}
+
+h1{
+	font-size: 5em;
+}
+
+h3{
+	font-size:3vw;
+}
